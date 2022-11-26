@@ -14,7 +14,7 @@ function App() {
           945,258 members
         </div>
         <form 
-					action="https://www.getrevue.co/profile/tyler_potts_/add_subscriber" 
+					action="https://www.linkedin.com/in/hakanaksuman/" 
 					method="post" 
 					id="revue-form"
 					name="revue-form"
